@@ -8,7 +8,7 @@
 
  () parentheses
  
- ![kku logo](kkulogo.png)
+ ![kku logo](20210111162909_1.png)
  
 อธิบายการใช้งาน Github และ Google colab ว่าหน้าที่ของแต่ละอันคืออะไร และอธิบายวิธีเซฟไฟล์จาก google colab ลงใน github
 
